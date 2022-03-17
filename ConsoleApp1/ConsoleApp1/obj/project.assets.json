@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Əzi\\OneDrive\\Desktop\\BP101\\1.C#\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\Əzi\\Desktop\\C# introduction task\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\Əzi\\OneDrive\\Desktop\\BP101\\1.C#\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "C:\\Users\\Əzi\\Desktop\\C# introduction task\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\Əzi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Əzi\\OneDrive\\Desktop\\BP101\\1.C#\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\Əzi\\Desktop\\C# introduction task\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }
